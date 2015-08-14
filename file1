@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+A git clone sets up the repository in question within the repository you initiate the clone from, usually your laptop/local machine, along with the files, file structure and finally creates a remote link between the github repository you clone and the newly created repository.
