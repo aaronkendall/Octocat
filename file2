@@ -1,1 +1,1 @@
-Explain what the 'upstream' remote is usually used for, in your own words
+The 'upstream' remote is a link to the original repository that you may have taken a fork of. This provides a clone of your fork for the original owner of the repository
