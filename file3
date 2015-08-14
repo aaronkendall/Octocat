@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a set of edits to files that run parallel to an original branch, usually master. This allows us to test changes to files without overwriting the original code. Branches can be merged to amalgamate the two versions of files if desired.
